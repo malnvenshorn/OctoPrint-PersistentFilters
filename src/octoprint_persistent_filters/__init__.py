@@ -9,7 +9,7 @@ class PersistentFiltersPlugin(
 
     def get_assets(self):
         return dict(
-            js=["dist/plugin.js"],
+            js=["dist/persistent_filters.js"],
         )
 
     # SoftwareUpdate
