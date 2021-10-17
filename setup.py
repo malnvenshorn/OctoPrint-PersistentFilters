@@ -5,7 +5,7 @@ from setuptools import setup
 
 plugin_name = "OctoPrint-PersistentFilters"
 plugin_description = "Restores selected terminal filters after reloading the interface."
-plugin_version = "0.1.1"
+plugin_version = "0.1.2"
 plugin_author = "Sven Lohrmann"
 plugin_author_email = "malnvenshorn@mailbox.org"
 plugin_url = "https://github.com/malnvenshorn/octoprint-persistentfilters"
